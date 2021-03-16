@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 29f032b1e561b7245a209c26eccf125a, type: 3}
+  m_Name: _Data_Canyon_Texture
+  m_EditorClassIdentifier: 
+  autoUpdate: 1
+  biomes:
+  - tint: {r: 0.6509434, g: 0.5850985, b: 0.05833925, a: 0}
+    tintStrength: 0
+    startHeight: 0
+    blendStrength: 0
+    textureScale: 0
+  - tint: {r: 0.8584906, g: 0.7268194, b: 0.23082057, a: 1}
+    tintStrength: 0
+    startHeight: 0.006
+    blendStrength: 0.018
+    textureScale: 0
+  - tint: {r: 1, g: 0.93558425, b: 0.24056602, a: 1}
+    tintStrength: 0
+    startHeight: 0.04
+    blendStrength: 0.042
+    textureScale: 0
+  - tint: {r: 1, g: 0.92653126, b: 0.41037738, a: 1}
+    tintStrength: 0
+    startHeight: 0.043
+    blendStrength: 0.024
+    textureScale: 0
